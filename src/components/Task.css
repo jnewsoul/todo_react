@@ -1,0 +1,33 @@
+.taskList {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 1.5vw;
+    background-color: aliceblue;
+    margin: 0.5em;
+    padding: 0.5em;
+    border-radius: 10px;
+}
+
+.taskList p {
+    font-family:  Helvetica;
+    font-size: medium;
+    margin-left: 1em;
+    
+   
+}
+
+.task {
+    display: flex;
+    
+}
+
+.taskText {
+    font-weight: 540;
+    display: flex;
+    color: darkolivegreen;
+    margin: 0;
+}
+
+.checkedIcon:hover, .uncheckedIcon:hover, .deleteIcon:hover {
+    cursor: pointer;
+}
