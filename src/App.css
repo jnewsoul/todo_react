@@ -6,7 +6,7 @@
   border-radius: 10px;
   border: 1px solid #ffe9ff;
   padding: 1em;
-  margin-top: 5vw;
+  margin-top: 10vw;
 }
 
 
@@ -16,7 +16,7 @@
   font-weight: 400;
   font-style: normal;
   font-size: 40px;
-  margin: 0.5em;
+  margin: em;
 }
 
 .noTasksText {
