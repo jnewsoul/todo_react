@@ -3,8 +3,8 @@
     justify-content: space-between;
     margin-left: 1.5vw;
     background-color: aliceblue;
-    margin: 0.5em;
-    padding: 0.5em;
+    margin: 1vw;
+    padding: 1vw;
     border-radius: 10px;
 }
 
@@ -19,12 +19,13 @@
 .task {
     display: flex;
     
+    
 }
 
 .taskText {
     font-weight: 540;
     display: flex;
-    color: darkolivegreen;
+    color: #535e5f;
     margin: 0;
 }
 
