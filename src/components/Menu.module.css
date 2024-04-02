@@ -15,7 +15,8 @@
     width: 50%;
     background-color: #fff;
     border: none;
-    font-size: medium;
+    font-size: 15px;
+    margin-left: 0.5em;
     padding: 0.5vw;
     vertical-align: top;
 }
@@ -65,9 +66,10 @@
 }
 
 .addButton {
-    font-size: 1.5vw;
+    font-size: 18px;
     text-align: center;
-    vertical-align: sub;
+    vertical-align: middle;
+    margin-right: 0.3em;
 }
 
 .addButton:hover {
